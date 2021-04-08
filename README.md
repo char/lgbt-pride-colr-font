@@ -14,7 +14,7 @@ So, to recap: `U+1F308 RAINBOW`, some ASCII sequence with component-wise additio
 
 The currently-implemented flags are:
 
-|Tag (ASCII)|Character|
+|Tag (ASCII)|Flag|Character|
 |-|-|-|
 |`bi`|Bisexuality Flag|🌈󠁢󠁩󠁿|
 |`nb`|Non-Binary Flag|🌈󠁮󠁢󠁿|
