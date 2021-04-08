@@ -1,0 +1,20 @@
+{
+  "name": "lgbt-pride-colr-font",
+  "description": "LGBT pride flag font in COLR/CPAL layered format.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Anthony Charlotte Som <half-kh-hacker@hackery.site>",
+  "dependencies": {
+    "grunt": "^1.3.0",
+    "grunt-cli": "^1.3.2",
+    "grunt-webfont": "catmoji/grunt-webfont#node-12",
+    "load-grunt-tasks": "^5.1.0",
+    "rmdir": "^1.2.0",
+    "unzip": "catmoji/node-unzip",
+    "xml2js": "^0.4.23",
+    "xmlbuilder": "^15.1.1"
+  },
+  "scripts": {
+    "grunt": "grunt"
+  }
+}
