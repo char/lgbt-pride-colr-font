@@ -24,3 +24,12 @@ The currently-implemented flags are:
 ## Art
 
 The art for the pride flags included in this repository is based on [twemoji](https://github.com/twitter/twemoji)'s Transgender and Rainbow flags.
+
+## Building
+
+```
+$ $pkg_mgr i fontforge python-fonttools
+$ npm install
+$ make
+$ # Font is at build/Charlotte Pride.ttf
+```
