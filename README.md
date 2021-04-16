@@ -28,8 +28,8 @@ The art for the pride flags included in this repository is based on [twemoji](ht
 ## Building
 
 ```
-$ $pkg_mgr i fontforge python-fonttools
-$ npm install
+$ $pkg_mgr install fontforge python-fonttools
+$ npm i
 $ make
 $ # Font is at build/Charlotte Pride.ttf
 ```
